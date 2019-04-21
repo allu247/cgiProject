@@ -14,5 +14,10 @@ there is ProcessBuilder that in first argument needs to now path to your python.
 also where randomGuesser.py script is located on your machine.   
 Currently there are my machines paths but they should be replaced.   
 Should also watch whether your IDE supports python files.   
-In intellij I installed Python plugin and to cgi.main module I added also Python SDK.   
+In intellij I installed Python plugin and to cgi.main module I added also Python SDK.  
+If you upload same file twice in a row then for some reason you have to refesh page in-between  
+uploads.
+
+
+
 
