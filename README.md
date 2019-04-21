@@ -1,7 +1,7 @@
 # cgiProject 
-I used Spring Boot and Gradle for this project. 
-I developed this project on Intellij Ultimate.
-Front-end should run on localhost:8080 
+I used Spring Boot and Gradle for this project.__   
+I developed this project on Intellij Ultimate.__  
+Front-end should run on localhost:8080   
 Back-end runs on localhost:8090 
 Open front-end and back-end separately. 
 Before trying to run the project should type "npm install" in terminal, 
